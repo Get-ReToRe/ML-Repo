@@ -1,2 +1,2 @@
 # ML-Repo
-Machine Learning path capstone project of Get-ReToTe development and documentation repository.
+Machine Learning path for capstone project from Tim C23-PS041 🙌 of Bangkit 2023, GetReToRe App development and documentation repository.
