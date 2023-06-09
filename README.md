@@ -5,6 +5,7 @@ Machine Learning path for capstone project from Team C23-PS041 🙌 of Bangkit 2
 Get-ReToRe is a recommendation application for tourist attractions for backpackers with a limited budget. Get-ReToRe will recommend tourist attractions based on the budget of the backpacker, the category of tourist attractions, and the closest tourist location to the backpacker. Get-ReToRe uses Collaborative filtering to select tourist attractions according to user requests
 
 # Budget Recommendation Feature
+Get-ReToRe seeks to help tourists, especially backpackers who have limited funds, in finding tourism spots. Backpackers can use Get-ReToRe to get recommendations for tourism places based on their budget and the category of tourism places.
 
 # Recommendation of Travel Destination by Images
 
