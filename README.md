@@ -8,7 +8,7 @@ Get-ReToRe is a recommendation application for tourist attractions for backpacke
 Get-ReToRe seeks to help tourists, especially backpackers who have limited funds, in finding tourism spots. Backpackers can use Get-ReToRe to get recommendations for tourism places based on their budget and the category of tourism places.
 
 # Recommendation of Travel Destination by Images
-
+We would like to implement fresh idea about input or filtering the dataset of getting travel destination recommendation by categories for users by uploading an image that has closest features and visual for the one of the 6 categories.
 
 # Recommendation System
 Collaborative filtering is a technique that can filter out items that a user may be interested in based on the reactions of other users. It operates by scanning a huge group of individuals for users who have similar likes to a specific user.
