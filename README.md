@@ -19,5 +19,5 @@ Content-based recommenders approach suggestion as a user-specific classification
 The dataset used in the application uses references from kaggle with the limitation of tourism places over 6 big cities in Indonesia for our Budget Recommendation Feature. We also use other reference of dataset which has similar with our ideas flow to test the image classification models for getting Recommendation of Travel Destination by Images.
 
 # Reference
-https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination
+https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination <br>
 https://www.kaggle.com/datasets/puneet6060/intel-image-classification
